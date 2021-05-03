@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\cosx1\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "python.formatting.provider": "yapf"
 }
