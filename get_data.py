@@ -69,7 +69,7 @@ class GetData:
         # WebDriverWait(self.driver, self.timeout).until(
         #     EC.visibility_of_element_located(search_input))
         search_input.click()
-        search_input.send_keys('贵阳银行')
+        search_input.send_keys('TARGET_STRING')
         self.driver.find_element_by_xpath(
             '//*[@id="_view_1540966814000"]/div/div[1]/div[3]').click()
 
